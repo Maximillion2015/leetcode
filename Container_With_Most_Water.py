@@ -28,10 +28,6 @@ class Solution:
 
         return result
 
-
-
-
-
 if __name__ == '__main__':
     solution = Solution()
     height = [2, 1]
